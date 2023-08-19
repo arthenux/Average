@@ -1,4 +1,4 @@
-#Average
+# Average
 
 Simple java program which accepts from the user 5 numbers in the range 1-100 then calculates and outputs the average of those numbers. 
 
